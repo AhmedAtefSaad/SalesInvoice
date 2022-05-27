@@ -5,9 +5,11 @@
         <group>
             <file>file:/C:/Users/Magic/Documents/NetBeansProjects/Project1SalesInVoice/src/com/sales/model/Invoice.java</file>
             <file>file:/C:/Users/Magic/Documents/NetBeansProjects/Project1SalesInVoice/src/com/sales/controller/Controller.java</file>
+            <file>file:/C:/Users/Magic/Documents/NetBeansProjects/Project1SalesInVoice/src/com/sales/view/LineDialog.java</file>
+            <file>file:/C:/Users/Magic/Documents/NetBeansProjects/Project1SalesInVoice/src/com/sales/model/LinesTableModel.java</file>
             <file>file:/C:/Users/Magic/Documents/NetBeansProjects/Project1SalesInVoice/src/com/sales/view/InvoiceDialog.java</file>
+            <file>file:/C:/Users/Magic/Documents/NetBeansProjects/Project1SalesInVoice/src/com/sales/model/InvoicesTableModel.java</file>
             <file>file:/C:/Users/Magic/Documents/NetBeansProjects/Project1SalesInVoice/src/com/sales/model/Line.java</file>
-            <file>file:/C:/Users/Magic/Documents/NetBeansProjects/Project1SalesInVoice/src/com/sales/view/LineDialoge.java</file>
             <file>file:/C:/Users/Magic/Documents/NetBeansProjects/Project1SalesInVoice/src/com/sales/view/InvoiceFrameProject.java</file>
         </group>
     </open-files>
